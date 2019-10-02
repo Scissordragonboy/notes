@@ -1,10 +1,5 @@
-   both modified:   Documentation/ABI/testing/sysfs-fs-f2fs
-        both modified:   Documentation/devicetree/bindings/sound/qcom-audio-dev.txt
-        both modified:   Documentation/devicetree/bindings/vendor-prefixes.txt
-        both modified:   Documentation/filesystems/f2fs.txt
-        both modified:   arch/arm/boot/dts/qcom/Makefile
-        both added:      arch/arm/boot/dts/qcom/apq8009-dragon.dtsi
-        both modified:   arch/arm/boot/dts/qcom/apq8009-memory.dtsi
+  
+
         both modified:   arch/arm/boot/dts/qcom/apq8009w-memory.dtsi
         both added:      arch/arm/boot/dts/qcom/apq8053-camera-sensor-dragon.dtsi
         both added:      arch/arm/boot/dts/qcom/apq8053-lite-dragon.dtsi
