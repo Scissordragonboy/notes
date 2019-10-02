@@ -1,47 +1,4 @@
-  
 
-        both modified:   arch/arm/boot/dts/qcom/apq8009w-memory.dtsi
-        both added:      arch/arm/boot/dts/qcom/apq8053-camera-sensor-dragon.dtsi
-        both added:      arch/arm/boot/dts/qcom/apq8053-lite-dragon.dtsi
-        both added:      arch/arm/boot/dts/qcom/apq8053-lite.dtsi
-        both added:      arch/arm/boot/dts/qcom/mdm9650-pcie-ep-ttp.dts
-        both modified:   arch/arm/boot/dts/qcom/mdm9650-ttp.dts
-        both modified:   arch/arm/boot/dts/qcom/mdm9650-usb.dtsi
-        both modified:   arch/arm/boot/dts/qcom/mdm9650.dtsi
-        both modified:   arch/arm/boot/dts/qcom/msm8909w-memory.dtsi
-        both added:      arch/arm/boot/dts/qcom/sda450-cdp.dts
-        both added:      arch/arm/boot/dts/qcom/sda450-mtp.dts
-        both modified:   arch/arm/configs/msm8909-perf_defconfig
-        both modified:   arch/arm/configs/msm8909_defconfig
-        both modified:   arch/arm64/crypto/Kconfig
-        both modified:   arch/arm64/crypto/Makefile
-        both modified:   arch/arm64/include/asm/uaccess.h
-        both modified:   arch/arm64/kernel/traps.c
-        both modified:   arch/arm64/mm/context.c
-        both modified:   drivers/bluetooth/bluetooth-power.c
-        both modified:   drivers/char/adsprpc.c
-        both modified:   drivers/char/adsprpc_compat.c
-        both modified:   drivers/char/adsprpc_shared.h
-        both modified:   drivers/char/diag/diag_dci.c
-        both modified:   drivers/char/diag/diag_masks.c
-        both modified:   drivers/char/diag/diag_memorydevice.c
-        both modified:   drivers/char/diag/diag_usb.c
-        both modified:   drivers/char/diag/diagchar.h
-        both modified:   drivers/char/diag/diagchar_core.c
-        both modified:   drivers/char/diag/diagfwd.c
-        both modified:   drivers/crypto/msm/ice.c
-        both modified:   drivers/gpu/drm/msm/msm_gem_submit.c
-        both modified:   drivers/gpu/msm/adreno_drawctxt.h
-        both modified:   drivers/gpu/msm/kgsl.c
-        both modified:   drivers/gpu/msm/kgsl_pwrctrl.c
-        both modified:   drivers/hid/hid-core.c
-        both modified:   drivers/i2c/busses/i2c-msm-v2.c
-        both modified:   drivers/input/Kconfig
-        both modified:   drivers/input/Makefile
-        both added:      drivers/input/misc/bma2x2.c
-        both modified:   drivers/input/touchscreen/Makefile
-        both modified:   drivers/media/dvb-core/dmxdev.c
-        
         both modified:   drivers/media/platform/msm/camera_v2/isp/msm_isp.h
         both modified:   drivers/media/platform/msm/camera_v2/isp/msm_isp40.c
         both modified:   drivers/media/platform/msm/camera_v2/isp/msm_isp_axi_util.c
