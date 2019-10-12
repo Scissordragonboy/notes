@@ -134,3 +134,273 @@
         both modified:   sound/soc/msm/qdsp6v2/q6core.c
          arch/arm/boot/dts/qcom/apq8009-dragon.dts~HEAD
         arch/arm/boot/dts/qcom/apq8009-ext-codec-dragon.dts~HEAD
+        
+        
+ 
+drivers/soc/qcom/pil_bg_intf.h
+29:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/soc/qcom/qdsp6v2/voice_svc.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+82:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+837:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/soc/qcom/wcd-dsp-glink.c
+984:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/soc/qcom/ipc_router_mhi_dev_xprt.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+42:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+57:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+73:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+99:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+122:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+232:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+252:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+281:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+302:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+363:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+377:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+387:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+487:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+589:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+633:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+732:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/soc/qcom/tracer_pkt.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/soc/qcom/subsys-pil-bg.c
+46:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+441:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+469:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdp3_ctrl.h
+6:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+112:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdp3.c
+169:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1876:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1949:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+2063:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdss_dsi_host.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdp3.h
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdss_dsi.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+967:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+3196:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdp3_ctrl.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+34:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+46:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+528:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1029:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1666:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1711:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1807:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1841:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1863:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1873:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+2061:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+3319:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+3398:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdss_mdp_intf_cmd.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdss_fb.h
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+245:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdss_mdp_overlay.c
+6604:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdss_panel.h
+131:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+844:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdp3_dma.c
+7:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+727:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+764:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdp3_dma.h
+7:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdp3_ppp.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdss_fb.c
+10:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1802:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+3825:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/video/msm/mdss/mdp3_layer.c
+236:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/char/diag/diag_masks.c
+833:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/core/driver.c
+512:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+539:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/core/quirks.c
+157:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+249:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+273:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/class/cdc-acm.c
+1793:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/renesas_usbhs/fifo.c
+873:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/host/xhci-hub.c
+306:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+319:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+335:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/gadget/legacy/inode.c
+1033:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1575:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1608:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/gadget/function/f_fs.c
+2891:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/gadget/function/u_glink.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+467:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/gadget/function/Makefile
+56:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/gadget/android.c
+82:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+3432:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/gadget/composite.c
+1778:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/serial/qcserial.c
+177:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/serial/option.c
+282:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+657:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1260:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+2045:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/dwc3/dwc3-msm.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/power/power_supply_sysfs.c
+314:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/power/qpnp-smbcharger.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+4984:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/power/reset/msm-poweroff.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/ipa/ipa_v3/ipa.c
+5219:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/ipa/ipa_v3/ipa_flt.c
+1113:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/ipa/ipa_v3/rmnet_ipa.c
+2825:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/ipa/ipa_v3/ipa_debugfs.c
+556:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+818:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+926:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/ipa/ipa_v3/ipa_hdr.c
+1040:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/mhi_dev/mhi.c
+108:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+444:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+496:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+515:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+532:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+602:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1749:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1795:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+2243:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+2256:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+2297:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/mhi_dev/mhi.h
+293:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+438:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+490:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+574:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/msm_bus/msm_bus_fabric_adhoc.c
+1051:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/sps/sps.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/sps/sps_rm.c
+6:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/sps/sps_bam.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/sps/sps_mem.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/binder_alloc.c
+190:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+221:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+273:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+457:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+549:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+834:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+971:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/binder.c
+3005:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+5851:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/ion/ion_priv.h
+587:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/ion/msm/msm_ion.c
+717:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/ion/ion.c
+26:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+344:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+440:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/lowmemorykiller.c
+396:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+424:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+475:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+526:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/binder_alloc.h
+117:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/scsi/ufs/ufshcd.c
+4756:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+5488:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+5510:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/scsi/sd.c
+2266:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+2310:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3       
