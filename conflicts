@@ -1,0 +1,143 @@
+
+YasshMalik@instance-1:~/kernel$ ack-grep 59d9510
+net/ipv4/tcp_input.c
+1534:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+kernel/irq/manage.c
+322:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+Documentation/ABI/testing/sysfs-fs-f2fs
+255:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+arch/arm64/crypto/Makefile
+39:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+arch/arm64/crypto/Kconfig
+65:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+sound/core/compress_offload.c
+511:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+sound/core/pcm_native.c
+221:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+include/net/netns/hash.h
+21:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+include/linux/usb/gadget.h
+720:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/f2fs.h
+1175:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1372:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+2762:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+3389:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/node.c
+1624:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1651:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/super.c
+328:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+401:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+901:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1172:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1795:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1954:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+2302:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+3515:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+3657:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+3713:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/inode.c
+356:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/file.c
+130:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1065:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+2213:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+2229:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/namei.c
+71:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/recovery.c
+719:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/dir.c
+910:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+937:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/data.c
+1437:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1829:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1889:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+2145:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+2682:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+2746:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/inline.c
+422:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/sysfs.c
+115:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+326:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/gc.c
+99:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+738:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1130:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/f2fs/checkpoint.c
+1441:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1528:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+fs/ecryptfs/crypto.c
+1183:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/block/zram/zram_drv.c
+1377:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/tty/tty_buffer.c
+32:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/net/ethernet/micrel/ks8851.c
+673:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+749:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+1822:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/net/wireless/ath/wil6210/wmi.c
+1346:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/usb/core/quirks.c
+69:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/usb/usbip/stub_rx.c
+394:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/usb/host/ehci-msm.c
+111:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/usb/gadget/function/u_ether.c
+340:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+372:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/usb/serial/usb-serial-simple.c
+82:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/staging/android/binder_alloc.c
+433:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/scsi/ufs/ufshcd.c
+2037:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+8346:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+8381:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+8398:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+8431:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+8516:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+9054:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+9131:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+
+drivers/scsi/sd.c
+2274:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
+2328:>>>>>>> 59d9510dcbacadda666eb73f5824202392d1a2f1
