@@ -1,0 +1,1204 @@
+YasshMalik@instance-1:~/ash$ ack-grep od8eb6e
+YasshMalik@instance-1:~/ash$ ack-grep 0d8eb6e
+net/xfrm/xfrm_user.c
+396:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+net/core/rtnetlink.c
+1034:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+net/ipv6/ip6_gre.c
+381:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+408:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+net/bluetooth/rfcomm/sock.c
+343:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+359:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+380:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+389:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+net/netfilter/nf_conntrack_core.c
+1826:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+net/netfilter/xt_qtaguid.c
+1934:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+net/wireless/db.txt
+64:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+214:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+560:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+635:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+649:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+923:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1160:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+net/packet/af_packet.c
+1443:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1538:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3376:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+net/ipv4/tcp_input.c
+3350:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+net/socket.c
+2484:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+mm/memory.c
+2608:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3190:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+mm/util.c
+321:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+kernel/time/alarmtimer.c
+165:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+340:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+kernel/cpuset.c
+2100:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+kernel/events/core.c
+182:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+7683:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+Documentation/devicetree/bindings/media/video/msm-vidc.txt
+28:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+Documentation/devicetree/bindings/qseecom/qseecom.txt
+33:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+Documentation/devicetree/bindings/usb/msm-phy.txt
+183:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+Documentation/devicetree/bindings/cnss/cnss-wlan.txt
+57:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+Documentation/sysctl/kernel.txt
+64:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+607:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/boot/dts/qcom/msm8996-v3.dtsi
+420:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/boot/dts/qcom/msm8996.dtsi
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+32:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/boot/dts/qcom/msm8917.dtsi
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+118:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/boot/dts/qcom/msm8996-regulator.dtsi
+634:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+648:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+668:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+696:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+828:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+855:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+890:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+946:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+990:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1018:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1034:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1062:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1074:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1089:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1111:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1125:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1141:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1163:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1305:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1332:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1375:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1433:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1477:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1489:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1504:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1531:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1546:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1567:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1599:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1772:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1804:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1850:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1906:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1950:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1989:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2009:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2048:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2060:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2075:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/boot/dts/qcom/msm8937-audio-cdp.dtsi
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/boot/dts/qcom/msm8940.dtsi
+790:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/boot/dts/qcom/Makefile
+229:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+285:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/boot/dts/qcom/msm8920.dtsi
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+36:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+80:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+150:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+275:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+454:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/boot/dts/qcom/msm8996pro.dtsi
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+33:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/configs/msm8937_defconfig
+537:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/configs/msm8937-perf_defconfig
+15:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+71:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+541:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm/configs/msmcortex_defconfig
+268:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/configs/msm8937_defconfig
+536:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+601:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/configs/msm8937-perf_defconfig
+534:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+591:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/configs/msm_defconfig
+36:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/configs/msm-auto_defconfig
+47:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/configs/msmcortex_defconfig
+269:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+609:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/configs/msmcortex-perf_defconfig
+578:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/configs/msm-perf_defconfig
+38:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/configs/msm-auto-perf_defconfig
+48:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/mm/fault.c
+259:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+arch/arm64/kernel/setup.c
+93:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+342:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/codecs/wcd9xxx-common-v2.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/codecs/wcd-mbhc-v2.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+690:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1095:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/codecs/wcd_cpe_core.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/codecs/msm8x16-wcd.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-pcm-routing-v2.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2545:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2737:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+13926:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-pcm-q6-noirq.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-pcm-lpa-v2.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-dai-q6-v2.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-pcm-q6-v2.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/audio_cal_utils.c
+646:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/q6adm.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-lsm-client.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1284:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1918:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1951:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1979:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/q6asm.c
+3268:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+6814:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-pcm-afe-v2.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-qti-pp-config.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-audio-effects-q6-v2.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/msm-compress-q6-v2.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1699:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2550:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/qdsp6v2/q6afe.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+364:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/msm8952.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2514:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/msm-dai-fe.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2721:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+sound/soc/msm/msm-cpe-lsm.c
+1349:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/uapi/media/msm_cam_sensor.h
+309:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/uapi/media/msmb_isp.h
+968:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1105:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/uapi/linux/v4l2-controls.h
+1232:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/dt-bindings/clock/msm-clocks-8952.h
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/soc/qcom/qseecomi.h
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/linux/power_supply.h
+267:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/linux/wcnss_wlan.h
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/linux/sched.h
+1899:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/linux/mdss_io_util.h
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/linux/msm_gsi.h
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1330:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+include/linux/usb/msm_hsusb.h
+9:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+fs/f2fs/acl.c
+221:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+fs/f2fs/f2fs.h
+2686:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+fs/f2fs/super.c
+1850:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2043:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+fs/f2fs/data.c
+2334:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+fs/9p/acl.c
+327:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+341:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+fs/ocfs2/acl.c
+264:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+fs/xfs/xfs_acl.c
+298:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/tty/n_tty.c
+1664:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2017:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/misc/uid_stat.c
+74:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/misc/qseecom.c
+8:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+135:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1820:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2103:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5830:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+6516:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+6549:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+6929:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+8512:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/misc/qcom/qdsp6v2/amrnb_in.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/misc/qcom/qdsp6v2/audio_utils_aio.c
+7:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+163:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+598:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/misc/qcom/qdsp6v2/audio_hwacc_effects.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/net/ethernet/msm/ecm_ipa.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/net/wireless/wcnss/wcnss_wlan.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+412:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+604:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3433:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3466:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/net/wireless/cnss/cnss_pci.c
+128:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+162:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+672:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+789:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+848:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2779:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/regulator/cpr3-hmss-regulator.c
+98:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/vidc/msm_vidc_debug.c
+460:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/vidc/msm_vidc_res_parse.c
+497:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/vidc/msm_vidc_resources.h
+163:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/vidc/venus_hfi.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/vidc/msm_vdec.c
+1293:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1310:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1711:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/msm_buf_mgr/msm_generic_buf_mgr.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+577:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/ispif/msm_ispif.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/jpeg_dma/msm_jpeg_dma_dev.c
+928:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/sensor/ir_cut/msm_ir_cut.c
+89:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+280:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/sensor/msm_sensor_driver.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+981:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/sensor/eeprom/msm_eeprom.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1354:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/sensor/flash/msm_flash.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+622:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+639:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+681:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+791:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+856:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/sensor/ir_led/msm_ir_led.h
+33:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+54:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/sensor/ir_led/msm_ir_led.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+25:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+55:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+71:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+90:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+104:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+119:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+130:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+174:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+186:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+213:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+238:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+270:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+290:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+302:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+325:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+340:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+368:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+377:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+416:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+427:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+458:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+478:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+497:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+526:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+536:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+567:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+600:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/sensor/io/msm_camera_cci_i2c.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+85:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/sensor/io/msm_camera_qup_i2c.c
+91:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+102:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+159:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+170:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/sensor/actuator/msm_actuator.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+553:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/common/msm_camera_io_util.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/pproc/cpp/msm_cpp.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp_stats_util.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+617:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp47.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1724:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1755:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1788:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp_util.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+621:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1994:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp.h
+802:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/isp/msm_buf_mgr.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp32.c
+1230:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1631:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp40.c
+115:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1082:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp_axi_util.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+28:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+847:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+973:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1660:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1693:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2403:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3029:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3434:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3453:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3569:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3857:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3940:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3948:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/platform/msm/camera_v2/msm.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/media/tuners/tuner-xc2028.c
+1417:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/rtc/qpnp-rtc.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+32:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/md/dm-verity-fec.h
+36:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+73:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/md/dm-android-verity.h
+48:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+83:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+96:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/md/dm-verity-target.c
+357:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71:drivers/md/dm-verity-target.c
+441:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71:drivers/md/dm-verity-target.c
+
+drivers/md/dm-verity-fec.c
+454:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+475:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+496:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+510:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+554:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+715:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/md/Makefile
+75:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/md/Kconfig
+459:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+471:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/md/dm-android-verity.c
+50:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+74:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+136:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+294:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+314:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+433:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+450:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+471:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+511:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+521:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+543:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+556:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+567:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+579:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+589:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+617:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+633:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+666:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+712:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+794:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+830:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+850:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+860:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+881:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+918:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+966:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1037:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1048:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1082:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1126:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/crypto/msm/compat_qcedev.c
+10:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/crypto/msm/qcrypto.c
+8:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/crypto/msm/ice.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1677:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/crypto/msm/qce50.c
+8:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+102:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+179:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1951:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2033:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2151:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2160:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2887:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3333:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4193:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4492:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5720:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5752:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5773:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5807:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5840:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5918:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/crypto/msm/qcedev.c
+8:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1519:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1687:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1737:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1746:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1776:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1784:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1794:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1828:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1836:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1846:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/crypto/msm/qce50.h
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+224:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/mfd/wcd9xxx-core.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/nfc/nq-nci.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+61:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+352:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1083:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/pci/host/pci-msm.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/firmware/qcom/tz_log.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/qdsp6v2/voice_svc.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+472:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+507:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+770:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/smem.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/rpm_master_stat.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/qbt1000.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+124:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+816:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/pil-q6v5-mss.c
+7:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/subsystem_restart.c
+656:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+709:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+726:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1051:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/rpm_stats.c
+7:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/Kconfig
+920:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/subsys-pil-tz.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/glink.c
+1212:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2912:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/service-locator.c
+7:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+273:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/soc/qcom/pil-msa.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+624:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/input/misc/keychord.c
+381:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/input/touchscreen/gt9xx/goodix_tool.c
+480:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/input/touchscreen/synaptics_rmi_dev.c
+331:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+357:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+403:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+431:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/input/touchscreen/synaptics_dsx/synaptics_dsx_core.c
+13:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/input/touchscreen/Makefile
+98:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/input/touchscreen/Kconfig
+1011:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/pinctrl/qcom/pinctrl-msm.c
+8:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+817:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/drm/msm/msm_gem_submit.c
+49:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/kgsl_iommu.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+54:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+649:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/kgsl_pool.c
+42:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+78:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+286:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+321:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+370:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+402:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+413:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+443:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+493:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+602:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/adreno.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2945:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/kgsl_device.h
+178:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/kgsl_cmdbatch.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+253:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+378:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+399:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+414:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+446:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/adreno_debugfs.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+153:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/kgsl_sharedmem.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+648:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+720:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+872:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/kgsl_sharedmem.h
+276:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/kgsl_pwrctrl.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/kgsl.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+365:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+549:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3134:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3163:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3192:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4038:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/adreno_a5xx.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/gpu/msm/kgsl_cmdbatch.h
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/ba/msm_ba_debug.c
+77:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+195:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_hdmi_edid.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_mdp.h
+1030:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_hdmi_tx.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_mdp_wfd.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_mdp_pp.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdp3.c
+1851:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_rotator.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_dsi_host.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2366:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_dsi.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+928:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1275:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1461:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_dsi.h
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+543:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_debug_xlog.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_compat_utils.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_fb.h
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_mdp_pp_v1_7.c
+1985:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_dsi_panel.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+38:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1112:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1177:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1477:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1498:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3457:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_mdp_overlay.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1663:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2738:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2897:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5271:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_panel.h
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+133:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+779:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdp3_dma.c
+827:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_hdmi_cec.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdp3_ppp_hwio.c
+1341:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_mdp_layer.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_mdp_intf_video.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/msm/mdss/mdss_fb.c
+10:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4447:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5287:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/video/fbdev/core/fbcmap.c
+197:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+214:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/mmc/core/debugfs.c
+399:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/mmc/core/sd.c
+1178:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1265:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/mmc/core/mmc.c
+2428:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/mmc/host/sdhci.c
+4222:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/mmc/host/cmdq_hci.c
+1058:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1166:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/Makefile
+177:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/char/diag/diagchar.h
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/char/diag/diagfwd.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1435:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1499:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1538:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1559:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1569:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/char/diag/diagchar_core.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3616:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/char/diag/diag_debugfs.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/char/diag/diagfwd_peripheral.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/char/adsprpc.c
+1134:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1220:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2240:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/phy/phy-msm-qusb.c
+456:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+534:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1064:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1085:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1118:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1242:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/host/xhci-mem.c
+2777:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/gadget/ci13xxx_udc.c
+3086:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/gadget/Kconfig
+434:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/gadget/function/u_data_bridge.c
+929:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/gadget/function/f_uac2.c
+168:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/gadget/function/u_uvc.h
+31:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/gadget/function/f_gps.c
+615:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/gadget/function/f_qc_rndis.c
+14:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1452:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/gadget/android.c
+2171:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/usb/dwc3/dwc3-msm.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+246:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+313:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+992:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2020:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4042:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/power/qpnp-fg.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/power/smb1351-charger.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/power/power_supply_sysfs.c
+314:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/power/qpnp-smbcharger.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+56:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+483:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+543:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2986:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3002:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4385:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5197:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5440:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+7733:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+9393:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/power/qcom/pm-boot.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+55:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/power/pmic-voter.c
+394:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/power/reset/msm-poweroff.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/spmi/spmi-pmic-arb.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/spmi/Kconfig
+46:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/gsi/gsi.c
+2961:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/gsi/gsi_reg.h
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/qpnp-haptic.c
+391:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v2/ipa_rt.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+498:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1482:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v2/ipa_flt.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+568:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v2/rmnet_ipa.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v2/ipa_dp.c
+2432:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v2/ipa_intf.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+286:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+331:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+376:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v2/ipa_nat.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+51:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+631:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+646:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+662:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+678:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+694:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+707:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v2/ipa_hdr.c
+858:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+906:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+941:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1051:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1171:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v3/ipa_rt.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1797:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v3/ipahal/ipahal_reg.h
+90:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v3/ipahal/ipahal_i.h
+597:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v3/ipa_utils.c
+6938:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+6973:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+7088:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v3/rmnet_ipa.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v3/ipa_intf.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+289:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+339:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+384:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v3/ipa_nat.c
+45:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+646:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+661:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+677:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+693:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+709:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+722:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/ipa/ipa_v3/ipa_hdr.c
+639:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+687:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+822:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+928:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/Makefile
+32:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/Kconfig
+308:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/msm_bus/msm_bus_rules.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+557:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/msm_bus/msm_bandwidth_monitor.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+247:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+258:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+267:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+383:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/msm_bus/msm_bus_dbg.c
+5:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/sps/sps.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/qpnp-power-on.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/platform/msm/usb_bam.c
+3025:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/leds/leds-aw2013.c
+7:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+400:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/leds/leds-qpnp-wled.c
+6:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/staging/android/binder.c
+935:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+956:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+996:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1070:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1130:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1234:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1259:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1372:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1611:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1690:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1948:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+1968:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+2023:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3176:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3242:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3370:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3699:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3805:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+3962:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4024:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4188:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4296:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4337:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4576:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4798:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4824:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4913:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+4927:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5093:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5301:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5392:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5419:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5604:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5900:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5929:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5964:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+5999:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+6040:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+6174:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/staging/android/ion/ion_cma_secure_heap.c
+10:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/staging/android/ion/msm/msm_ion.c
+739:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/staging/android/ion/ion.c
+11:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+460:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+497:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+718:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+733:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+
+drivers/staging/android/lowmemorykiller.c
+78:>>>>>>> 0d8eb6e1c35960ddef1061ad26cf17c441ac6a71
+YasshMalik@instance-1:~/ash$
