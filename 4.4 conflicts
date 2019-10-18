@@ -4,45 +4,7 @@
 : 
 
 
-drivers/media/platform/msm/camera_v2/sensor/eeprom/msm_eeprom.c
-6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
 
-drivers/media/platform/msm/camera_v2/sensor/flash/msm_flash.c
-6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-603:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-620:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-641:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-709:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-840:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-905:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-
-drivers/media/platform/msm/camera_v2/sensor/io/msm_camera_cci_i2c.c
-5:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-
-drivers/media/platform/msm/camera_v2/sensor/actuator/msm_actuator.c
-6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-
-drivers/media/platform/msm/camera_v2/pproc/cpp/msm_cpp.c
-6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-3724:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-
-drivers/media/platform/msm/camera_v2/isp/msm_isp_stats_util.c
-6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-
-drivers/media/platform/msm/camera_v2/isp/msm_isp_util.c
-6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-659:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-
-drivers/media/platform/msm/camera_v2/isp/msm_buf_mgr.c
-6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-
-drivers/media/platform/msm/camera_v2/isp/msm_isp_axi_util.c
-6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-4121:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-4131:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
-
-drivers/media/platform/msm/camera_v2/msm.c
-6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
 
 drivers/hid/usbhid/hiddev.c
 565:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
