@@ -1,0 +1,73 @@
+
+Scissordragonboy@instance-1:~/stable$ ack-grep bc2370
+net/wireless/db.txt
+240:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+554:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+sound/soc/msm/qdsp6v2/q6asm.c
+1941:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+sound/soc/msm/qdsp6v2/q6afe.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+fs/f2fs/node.c
+833:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/iio/imu/bmi160/bmi160_core.c
+1132:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+1157:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/media/platform/msm/vidc/vidc_hfi_api.h
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/media/platform/msm/vidc/hfi_response_handler.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/hid/hid-core.c
+1942:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/i2c/busses/i2c-msm-v2.c
+5:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+2341:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/char/diag/diagchar_core.c
+3188:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/char/adsprpc_compat.c
+124:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/char/adsprpc.c
+313:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+324:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+2069:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/misc/yurex.c
+453:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/core/driver.c
+507:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+534:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/core/devio.c
+1303:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/core/quirks.c
+287:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/usb/serial/usb-serial-simple.c
+84:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/ipa/ipa_v2/ipa_intf.c
+760:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/platform/msm/ipa/ipa_v3/ipa_intf.c
+765:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/ion/ion_priv.h
+587:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/ion/msm/msm_ion.c
+717:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
+
+drivers/staging/android/ion/ion.c
+428:>>>>>>> bc23702479555db3905d1760b1c97def3ae7e3b3
