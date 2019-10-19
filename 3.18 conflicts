@@ -1,0 +1,149 @@
+Scissordragonboy@instance-1:~/kernel$ ack-grep 7c41252
+net/packet/af_packet.c
+1458:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1553:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+3415:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+3938:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+3952:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/codecs/msm8x16-wcd.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/msm/qdsp6v2/msm-pcm-routing-v2.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+14079:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/msm/qdsp6v2/msm-pcm-q6-noirq.c
+5:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/msm/qdsp6v2/msm-pcm-lpa-v2.c
+5:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/msm/qdsp6v2/msm-pcm-q6-v2.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/msm/qdsp6v2/q6adm.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/msm/qdsp6v2/msm-pcm-afe-v2.c
+5:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/msm/qdsp6v2/msm-audio-effects-q6-v2.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/msm/qdsp6v2/msm-compress-q6-v2.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1705:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+sound/soc/msm/qdsp6v2/q6afe.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+364:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/misc/qseecom.c
+8:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/net/wireless/wcnss/wcnss_wlan.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+412:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+3430:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+3463:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/msm_buf_mgr/msm_generic_buf_mgr.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+570:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/ispif/msm_ispif.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/sensor/msm_sensor_driver.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+981:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/sensor/flash/msm_flash.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+622:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+639:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+681:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+791:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+856:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/sensor/io/msm_camera_cci_i2c.c
+5:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/sensor/actuator/msm_actuator.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/pproc/cpp/msm_cpp.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp_stats_util.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+617:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp_util.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/isp/msm_buf_mgr.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/isp/msm_isp_axi_util.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+3885:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/media/platform/msm/camera_v2/msm.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/video/msm/mdss/mdss_debug_xlog.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/char/diag/diagchar.h
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/char/diag/diagfwd.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1437:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1501:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1540:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1561:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1571:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/char/diag/diagchar_core.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+3675:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/char/diag/diag_debugfs.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/usb/gadget/function/f_qc_rndis.c
+14:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1451:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/usb/dwc3/dwc3-msm.c
+6:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+246:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+313:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+4033:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+
+drivers/staging/android/binder.c
+976:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+997:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1037:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1111:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1288:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1400:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1539:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+1872:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+3675:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+3877:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+4021:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+4251:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+4481:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+4507:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+4590:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+4604:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+4768:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+5084:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+5236:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+5513:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+5548:>>>>>>> 7c41252... Kernel: Xiaomi kernel changes for max2
+Scissordragonboy@instance-1:~/kernel$
