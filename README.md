@@ -1,4 +1,16 @@
- 
+ ### ANDROID-10 ARROW-OS HALS ###
+
+###  rm -rf hardware/qcom/display && git clone https://github.com/ArrowOS/android_hardware_qcom_display.git -b arrow-10.0 hardware/qcom/display && rm -rf hardware/qcom-caf/msm8996/display && git clone https://github.com/ArrowOS/android_hardware_qcom_display.git -b arrow-10.0-caf-8996 hardware/qcom-caf/msm8996/display  ###
+
+### MEDIA HALS ### 
+
+###  rm -rf hardware/qcom/audio && git clone https://github.com/ArrowOS/android_hardware_qcom_audio.git -b arrow-10.0 hardware/qcom/audio && rm -rf hardware/qcom-caf/msm8996/audio && git clone https://github.com/ArrowOS/android_hardware_qcom_audio.git -b arrow-10.0-caf-8996 hardware/qcom-caf/msm8996/audio  ###
+
+### AUDIO HALS ###
+
+###  rm -rf hardware/qcom/media && git clone https://github.com/ArrowOS/android_hardware_qcom_media.git -b arrow-10.0 hardware/qcom/media && rm -rf hardware/qcom-caf/msm8996/media && git clone https://github.com/ArrowOS/android_hardware_qcom_media.git -b arrow-10.0-caf-8996 hardware/qcom-caf/msm8996/media  ###
+
+
 
 ## DEVICE TREES ##
 git clone https://github.com/oxygen-pie/bootleggers_device_xiaomi_oxygen.git -b pie device/xiaomi/oxygen && git clone https://github.com/oxygen-pie/device_xiaomi_msm8953-common.git -b pie device/xiaomi/msm8953-common && git clone https://github.com/blackmiddow/vendor_xiaomi_oxygen.git -b pie vendor/xiaomi && git clone https://github.com/blackmiddow/kernel_xiaomi_oxygen.git -b pie kernel/xiaomi/msm8953
