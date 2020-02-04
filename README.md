@@ -1,4 +1,14 @@
- ### ANDROID-10 ARROW-OS HALS ###
+ ### gdrive upload ###
+ 
+ wget https://docs.google.com/uc?id=0B3X9GlR6EmbnWksyTEtCM0VfaFE&export=download
+ 
+ mv uc\?id\=0B3X9GlR6EmbnWksyTEtCM0VfaFE gdrive
+ 
+ chmod +x gdrive
+ 
+ sudo install gdrive /usr/local/bin/gdrive
+ 
+ ##  ANDROID-10 ARROW-OS HALS ###
 
 ###  rm -rf hardware/qcom/display && git clone https://github.com/ArrowOS/android_hardware_qcom_display.git -b arrow-10.0 hardware/qcom/display && rm -rf hardware/qcom-caf/msm8996/display && git clone https://github.com/ArrowOS/android_hardware_qcom_display.git -b arrow-10.0-caf-8996 hardware/qcom-caf/msm8996/display  ###
 
